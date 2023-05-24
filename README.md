@@ -1,1 +1,1 @@
-# Application-Nonnegative-Matrix-Factorization
+# Application-of-Nonnegative-Matrix-Factorization
